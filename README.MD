@@ -19,8 +19,26 @@ CONTENT
 *[Motor selection]#(Motor-selection)
 *[Camera position]#(Camera-position)
 *[team photo]#(team-photo)
+#<hr/>
+<!--
+
+
+
+-->
 # General description
-Our robot's size is about 20 cm lenght,14 cm width and 27 cm height.We used gyro sensor to identify how many degrees robot should turn to.Also we used ultrasonic sensor to determine a free space for our robot to turn to
+   
+  
+<p>Our robot's size is about 20 cm lenght,14 cm width and 27 cm height.We used gyro sensor to identify how many degrees robot should turn to.Also we used ultrasonic sensor to determine a free space for our robot to turn to
+<p>Moreover we used differential to connect motors with the wheels and make the movement more stable 
+<div align=center>
+<table>
+<tr>
+<th width=250>
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/concepts/parking-situation.png) </br>
+</th>
+</tr>
+</table>
+</div>
 # Motor selection
 We have chosen medium motor instead of large one due to its great pace.We used overall 3 medium motors.2 of them we used for comman movement,and we used 1 motor for changing direction of robot,moving it to right or left side depending on the situation 
 # Camera position 
