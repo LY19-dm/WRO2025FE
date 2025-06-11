@@ -23,7 +23,7 @@ CONTENT
 </div>
 
 # Contents 
-* [General description]#(General-description)
+*[General description]#(General-description)
 *[Motor selection]#(Motor-selection)
 *[Camera position]#(Camera-position)
 *[team photo]#(team-photo)
