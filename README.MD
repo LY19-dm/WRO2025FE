@@ -14,6 +14,16 @@ CONTENT
 <h1 align = center> Future Engineers 2025 </h1>
 <h2 align = center> Team name: URALSK Yuppy </h2>
 <h2 align = center> Team members: Seitenov Adlet, Mazhit Damir </h2>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;">
+<div align = center>
+  <img src=https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_Logo12.png> 
+  <img src="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_logoo.jpg">
+</div>
+</div>
+</div>
+
 # Contents 
 * [General description]#(General-description)
 *[Motor selection]#(Motor-selection)
