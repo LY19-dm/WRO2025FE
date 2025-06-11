@@ -50,7 +50,11 @@ CONTENT
 </table>
 </div>
 #<hr/>
+
+
+
 # Camera position 
+
 <p>We put camera as much higher as it possible to provide full view and identify colors with more accuracy 
 <div align=center>
 <table>
