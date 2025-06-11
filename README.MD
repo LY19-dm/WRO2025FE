@@ -35,8 +35,12 @@ CONTENT
 </table>
 </div>
 #<hr/>
+
+
 # Motor selection
-We have chosen medium motor instead of large one due to its great pace.We used overall 3 medium motors.2 of them we used for comman movement,and we used 1 motor for changing direction of robot,moving it to right or left side depending on the situation 
+
+
+<p>We have chosen medium motor instead of large one due to its great pace.We used overall 3 medium motors.2 of them we used for comman movement,and we used 1 motor for changing direction of robot,moving it to right or left side depending on the situation 
 <div align=center>
 <table>
 <tr>
