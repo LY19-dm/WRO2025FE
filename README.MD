@@ -30,12 +30,27 @@ CONTENT
 <table>
 <tr>
 <th width=250>
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/concepts/parking-situation.png) </br>
 </th>
 </tr>
 </table>
 </div>
 # Motor selection
 We have chosen medium motor instead of large one due to its great pace.We used overall 3 medium motors.2 of them we used for comman movement,and we used 1 motor for changing direction of robot,moving it to right or left side depending on the situation 
+<div align=center>
+<table>
+<tr>
+<th width=250>
+</th>
+</tr>
+</table>
+</div>
 # Camera position 
 We put camera as much higher as it possible to provide full view and identify colors with more accuracy 
+<div align=center>
+<table>
+<tr>
+<th width=250>
+</th>
+</tr>
+</table>
+</div>
