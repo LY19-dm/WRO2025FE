@@ -20,16 +20,12 @@ CONTENT
 *[Camera position]#(Camera-position)
 *[team photo]#(team-photo)
 #<hr/>
-<!--
 
-
-
--->
 # General description
    
   
-<p>Our robot's size is about 20 cm lenght,14 cm width and 27 cm height.We used gyro sensor to identify how many degrees robot should turn to.Also we used ultrasonic sensor to determine a free space for our robot to turn to
-<p>Moreover we used differential to connect motors with the wheels and make the movement more stable  
+<p> Our robot's size is about 20 cm lenght,14 cm width and 27 cm height.We used gyro sensor to identify how many degrees robot should turn to.Also we used ultrasonic sensor to determine a free space for our robot to turn to
+<p>  Moreover we used differential to connect motors with the wheels and make the movement more stable  
 <div align=center>
 <table>
 <tr>
