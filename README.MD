@@ -63,7 +63,7 @@ CONTENT
 
 # Camera position 
 
-<p>We put camera as much higher as it possible to provide full view and identify colors with more accuracy 
+<p>We put camera as much higher as it possible to provide full view .It helps robot to identify the color (red or green) and start turning to the needed side beforehand.
 <div align=center>
 <table>
 <tr>
