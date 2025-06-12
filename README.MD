@@ -17,7 +17,9 @@ CONTENT
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;">
+
 <div align = center>
+<img scr=https://drive.google.com/file/d/1-fjdx3C4GCuWRyWWHeer6afKS2MZWYwX/view?usp=drivesdk
 </div>
 </div>
 </div>
@@ -78,17 +80,3 @@ CONTENT
 </table>
 </div>
 #<hr/>
-
-#  team photo 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;">
-<div align = center>
-<img scr=https://git.hub/drive.google.com/file/d/1-fjdx3C4GCuWRyWWHeer6afKS2MZWYwX/view?usp=drivesdk>
-</br>
-</br>
-</div>
-</div>
-</div>
-
-
