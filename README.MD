@@ -77,3 +77,10 @@ CONTENT
 </tr>
 </table>
 </div>
+
+
+#team photo 
+![alt text]https://docs.google.com/document/d/13feVGEWwSE2NiaiAggtLNBv7SvmM1SfqG70r2vfwc8Q/edit?usp=drivesdk
+</br>
+</br>
+
