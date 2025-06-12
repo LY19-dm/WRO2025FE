@@ -80,7 +80,7 @@ CONTENT
 
 
 #team photo 
-![alt text]https://docs.google.com/document/d/13feVGEWwSE2NiaiAggtLNBv7SvmM1SfqG70r2vfwc8Q/edit?usp=drivesdk
+img scr=https://git.hub/drive.google.com/file/d/1-fjdx3C4GCuWRyWWHeer6afKS2MZWYwX/view?usp=drivesdk
 </br>
 </br>
 
