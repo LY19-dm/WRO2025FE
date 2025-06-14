@@ -81,7 +81,7 @@ CONTENT
 #<hr/>
 
 # team photo
-!(https://drive.google.com/file/d/1-fjdx3C4GCuWRyWWHeer6afKS2MZWYwX/view?usp=drivesdk)
+![alt text](https://drive.google.com/file/d/1-fjdx3C4GCuWRyWWHeer6afKS2MZWYwX/view?usp=drivesdk)
 </th>
 </tr>
 </table>
