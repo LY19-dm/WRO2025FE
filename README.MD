@@ -93,5 +93,8 @@ CONTENT
 </table>
 </div>
 #<hr/>
+
 # Perfomance 
+### Open challenge:
+https://youtu.be/rZDCI9ZAnfs?si=IKbxxOvN3908mN5O
 
