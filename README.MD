@@ -28,6 +28,7 @@ CONTENT
 *    [*Motor selection*](#Motor-selection)
 *    [*Camera position*](#Camera-position)
 *    [*team photo*](#team-photo)
+*    [*Perfomance*](#Perfomance)
 #<hr/>
 <!-- 
 
@@ -91,5 +92,6 @@ CONTENT
 </tr>
 </table>
 </div>
-
+#<hr/>
+# Perfomance 
 
