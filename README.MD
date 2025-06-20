@@ -86,8 +86,8 @@ CONTENT
 <tr>
 <th width=50%>
 
-![alt text]=(github/IMG_5988.png)
-
+![alt text](https://github.com/IMG_5988.png)
+</th>
 </div>
 </div>
 </div>
