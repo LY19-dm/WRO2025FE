@@ -83,7 +83,7 @@ CONTENT
 
 # team photo
 <div align = center>
-<img src="converted_image.png
+
 </div>
 </div>
 </div>
