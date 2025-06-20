@@ -97,9 +97,4 @@ https://youtu.be/rZDCI9ZAnfs?si=IKbxxOvN3908mN5O
 </div>
 #<hr/>
 
-# team photo
-git clone https://github.com/Damir/WRO2025FE.git
-cd WRO2025FE
-git add Team photo.png
-git commit -m "Добавил фото Team photo"
-git push origin main
+
