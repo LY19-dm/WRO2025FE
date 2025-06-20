@@ -81,23 +81,6 @@ CONTENT
 </div>
 #<hr/>
 
-# team photo
-<table>
-<tr>
-<th width=50%>
-git add IMG5988.jpg
-git commit -m "Добавил фото"
-git push origin main
-</th>
-</div>
-</div>
-</div>
-</th>
-</tr>
-</table>
-</div>
-#<hr/>
-
 # Perfomance 
 ### Open challenge:
 https://youtu.be/rZDCI9ZAnfs?si=IKbxxOvN3908mN5O
