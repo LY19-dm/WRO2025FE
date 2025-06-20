@@ -97,4 +97,16 @@ CONTENT
 # Perfomance 
 ### Open challenge:
 https://youtu.be/rZDCI9ZAnfs?si=IKbxxOvN3908mN5O
+#<hr/>
+
+# Code explanation 
+<p>We conected Ev3 with Logitech camera via Raspberry PI using ssh.We made our code in Ev3dev Python
+</div>
+</div>
+</div>
+</th>
+</tr>
+</table>
+</div>
+#<hr/>
 
