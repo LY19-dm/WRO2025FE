@@ -82,8 +82,12 @@ CONTENT
 #<hr/>
 
 # team photo
-<div align = center>
+<table>
+<tr>
+<th width=50%>
+
 ![alt text]=(IMG_5988.png)
+
 </div>
 </div>
 </div>
