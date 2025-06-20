@@ -103,7 +103,8 @@ https://youtu.be/rZDCI9ZAnfs?si=IKbxxOvN3908mN5O
 <th width=50%>
 
 
-![alt text](https://github.com/Teamphoto.png)
+![alt text](https://github.com/Team photo.png)
+
 </th>
 
 
