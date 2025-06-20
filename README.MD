@@ -83,7 +83,7 @@ CONTENT
 
 # team photo
 <div align = center>
-
+img scr="IMG_5988.png"
 </div>
 </div>
 </div>
