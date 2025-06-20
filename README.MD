@@ -97,3 +97,6 @@ https://youtu.be/rZDCI9ZAnfs?si=IKbxxOvN3908mN5O
 </div>
 #<hr/>
 
+# team photo
+![alt text](https://github.com/Team photo.pneg)
+
