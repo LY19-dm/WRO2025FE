@@ -98,8 +98,8 @@ https://youtu.be/rZDCI9ZAnfs?si=IKbxxOvN3908mN5O
 #<hr/>
 
 # team photo
-git clone https://github.com/LY19-dm/WRO2025 by team Yuppy.git
-cd WRO2025 by team yuppy
+git clone https://github.com/Damir/WRO2025FE.git
+cd WRO2025FE
 git add Team photo.jpg
-git commit -m "Добавил фото"
+git commit -m "Добавил фото Team photo"
 git push origin main
