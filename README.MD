@@ -83,8 +83,7 @@ CONTENT
 
 # team photo
 <div align = center>
-<img src="https://github.com/https://drive.google.com/file/d/1-fjdx3C4GCuWRyWWHeer6afKS2MZWYwX/view?usp=drivesdk>
-<img src="https://github.com/https://drive.google.com/file/d/1-fjdx3C4GCuWRyWWHeer6afKS2MZWYwX/view?usp=drivesdk>
+<img src="converted_image.png
 </div>
 </div>
 </div>
