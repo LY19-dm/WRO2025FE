@@ -85,8 +85,9 @@ CONTENT
 <table>
 <tr>
 <th width=50%>
-
-![alt text](https://github.com/IMG_5988.png)
+git add IMG5988.jpg
+git commit -m "Добавил фото"
+git push origin main
 </th>
 </div>
 </div>
